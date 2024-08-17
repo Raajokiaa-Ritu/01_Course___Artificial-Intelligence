@@ -18,3 +18,8 @@
 9. activation function and bias in ANN
 
 10. forward propagation in ANN
+
+11. backward propagation in ANN
+
+12. NLP [Natural Language Processing]
+
